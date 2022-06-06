@@ -1,4 +1,4 @@
-import x from './x'
+import x from './x.js'
 
 console.log(x)
 console.log('hi')
