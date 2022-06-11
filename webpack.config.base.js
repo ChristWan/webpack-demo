@@ -8,5 +8,5 @@ module.exports = {
     plugins: [new HtmlWebpackPlugin({
         title: "ink",
         template: "src/assets/index.html"
-    })]
+    })],
 }
